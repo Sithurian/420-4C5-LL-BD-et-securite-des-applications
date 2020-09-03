@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+    <head>
+        <meta charset="utf-8">
+        <title>Laboratoire1</title>
+        <meta name="Martin" content="Laboratoire1">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Faster+One">
+        <link rel="stylesheet" href="Style.cs">
+        <script src="Film.js"></script>
+    </head>
+
+    <body>
+        <header>
+
+        </header>
+
+        <section>
+            
+        </section>
+        
+
+    </body>
+
+</html>
