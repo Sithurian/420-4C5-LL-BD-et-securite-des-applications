@@ -18,3 +18,23 @@
     }
   ]
 }
+{
+  "Titre": "Fight Club",
+  "directeur": "David Fincher",
+  "Auteur": "Chuck Palahniuk, Jim Uhls",
+  "Date": 1999,
+  "Vedette": [
+    {
+      "Nom": "Edward Norton",
+      "Personnage": "Le Narrateur"
+    },
+    {
+      "Nom": "Brad Pitt",
+      "Personnage": "Tyler Durden"
+    },
+    {
+      "Nom": "Zach Grenier",
+      "Personnage": "Richard Chesler"
+    }
+  ]
+}
